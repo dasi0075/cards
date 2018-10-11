@@ -52,7 +52,7 @@ html {
 .cards dd {
 	display: inline-block;
 	margin: 0;
-	min-width: 9am;
+	min-width: 9em;
 }
 
 .cards div {
